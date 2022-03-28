@@ -1,0 +1,10 @@
+.main_table{
+    border-collapse: collapse
+    
+}
+td{
+    padding: 10px;
+}
+.trheading{
+    background: #C0EDA6;
+}
