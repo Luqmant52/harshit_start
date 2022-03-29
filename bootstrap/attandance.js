@@ -13,3 +13,12 @@ document.write("Total number of Days is = " + attendance.length + "<br>")
 console.log("Total number of Present is = " + per)
 console.log("Total number of Absent is = " + abs)
 console.log("Total number of Days is = " + attendance.length)
+
+// function setup(id) {
+//     // Write your code here.
+//     var div = document.getElementById(id);
+//     div.remove();
+//     // alert("Function call" + id)
+//     // console.log(document.getElementById("parent").id)
+    
+//   }
