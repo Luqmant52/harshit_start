@@ -1,0 +1,21 @@
+body{
+    background: #444;
+}
+nav{
+    background: rgb(184, 181, 181);
+}
+nav ul {
+  border: 2px black solid;
+  padding: 0px;
+  text-align: center;
+}
+nav li {
+  list-style: none;
+  display: inline-block;
+  margin: 5px 15px;
+  border-bottom: 1px black solid;
+}
+a{
+    color: #444;
+    text-decoration: none;
+}

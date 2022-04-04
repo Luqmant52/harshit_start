@@ -1,3 +1,4 @@
+console.log("Please wait")
 function f(){
 for (let i = 0; i < 100000000; i++) {
     console.log(i)
