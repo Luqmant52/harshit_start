@@ -1,0 +1,20 @@
+body {
+  margin-left: 12.5%;
+  margin-right: 12.5%;
+  font-family: 'Pacifico', cursive;
+  font-size: 19;
+}
+div h2 {
+  background: rgb(189, 187, 187);
+  text-align: center;
+  padding: 0.5%  0;
+}
+.bd {
+  border: 1px solid black;
+  margin-top: 2.5%;
+  padding: 10px;
+}
+.bd h3{
+    text-transform: uppercase;
+}
+
